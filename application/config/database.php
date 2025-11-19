@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'rekhaserv.mysql.database.azure.com',
-	'username' => 'Rekhalogin',
-	'password' => 'Verity@123',
+	'hostname' => 'cmtsdbrekha.c78oqe84acj9.ap-south-1.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => 'admin123',
 	'database' => 'college_mgmt',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
